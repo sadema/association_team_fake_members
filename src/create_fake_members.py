@@ -38,6 +38,7 @@ def create_json_file():
 
         jsonfile.close()
 
+
 if __name__ == '__main__':
     start = time()
     create_json_file()
